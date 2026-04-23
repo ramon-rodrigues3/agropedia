@@ -1,0 +1,7 @@
+[
+        {"nome": "Milho", "tipo": "grão"},
+        {"nome": "Arroz", "tipo": "grão"},
+        {"nome": "Feijão", "tipo": "leguminosa"},
+        {"nome": "Alface", "tipo": "verdura"},
+        {"nome": "Cenoura", "tipo": "raiz"}
+]
