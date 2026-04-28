@@ -9,6 +9,7 @@
 </svelte:head>
 
 <header>
+<h1>Agropédia</h1>
 	<nav>
 		<a href="/">Home</a>
 		<a href="/sobre">Sobre</a>

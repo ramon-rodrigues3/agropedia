@@ -5,6 +5,8 @@
     // };
 
     import baseDados from '$lib/data.json';
+    import teste from '$lib/prototipo.json';
+	import test from 'node:test';
     // type Planta = typeof baseDados[0];
     // const plantas = baseDados;
 </script>
@@ -16,6 +18,19 @@
 <h2>Plantas</h2>
   {#each baseDados as planta}
     <a href="/plantas/{planta.nome}">
+        <div class="card">
+            <h3>{planta.nome}</h3>
+        </div>
+    </a>
+  {:else}
+    <p>Nenhum dado encontrado.</p>
+  {/each}
+</section>
+
+<section class="grid">
+<h2>Plantas</h2>
+  {#each teste as planta}
+    <a href="/teste/{planta.nome}">
         <div class="card">
             <h3>{planta.nome}</h3>
         </div>

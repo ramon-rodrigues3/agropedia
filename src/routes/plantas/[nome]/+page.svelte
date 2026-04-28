@@ -17,3 +17,9 @@
     <h1>Planta não encontrada</h1>
     <a href="/">Voltar para a lista</a>
 {/if}
+
+<h2>Informações nutricionais</h2>
+
+<h2>Informações de Plantio</h2>
+
+<h2>Orígem?? </h2>
