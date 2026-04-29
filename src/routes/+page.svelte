@@ -1,10 +1,10 @@
 <script lang="ts">
     import baseDados from '$lib/data.json';
     
-    let itensVisiveis = $state(10);
+    let itensVisiveis = $state(12);
     
     function carregarMais() {
-        itensVisiveis += 10;
+        itensVisiveis += 12;
     }
 
     let plantasExibidas = $derived(baseDados.slice(0, itensVisiveis));

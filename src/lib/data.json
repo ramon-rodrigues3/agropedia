@@ -4,8 +4,8 @@
         "nome_cientifico": "Solanum lycopersicum",
         "familia": "Solanaceae",
         "imagem": {
-            "url": "https://www.infoescola.com/wp-content/uploads/2011/01/tomate_345187874.jpg",
-            "fonte": "InfoEscola"
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg",
+            "fonte": "Wikimedia Commons"
         },
         "info_nutricionais": {
             "Energia (kJ)": { "valor": 74, "unidade": "kJ" },
@@ -62,7 +62,7 @@
         "nome_cientifico": "Oryza sativa",
         "familia": "Poaceae",
         "imagem": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bulakenyo_farmer_transplanting_Oryza_sativa_palay_seedling_in_Guiguinto_rice_paddy_01.jpg/960px-Bulakenyo_farmer_transplanting_Oryza_sativa_palay_seedling_in_Guiguinto_rice_paddy_01.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Husked_Rice._03.jpg?_=20230206163644",
             "fonte": "Wikimedia Commons"
         },
         "info_nutricionais": {
@@ -120,7 +120,7 @@
         "nome_cientifico": "Phaseolus vulgaris",
         "familia": "Fabaceae",
         "imagem": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Planta%C3%A7%C3%A3o_de_Phaseolus_vulgaris.jpg/960px-Planta%C3%A7%C3%A3o_de_Phaseolus_vulgaris.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BlackEyedPeas.JPG/960px-BlackEyedPeas.JPG",
             "fonte": "Wikimedia Commons"
         },
         "info_nutricionais": {
@@ -178,7 +178,7 @@
         "nome_cientifico": "Daucus carota",
         "familia": "Apiaceae",
         "imagem": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CenouraDSC1801.jpg/960px-CenouraDSC1801.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Baby_carrots_-_jules.jpg/960px-Baby_carrots_-_jules.jpg",
             "fonte": "Wikimedia Commons"
         },
         "info_nutricionais": {
@@ -294,7 +294,7 @@
         "nome_cientifico": "Brassica oleracea var. capitata",
         "familia": "Brassicaceae",
         "imagem": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Chou_pomm%C3%A9_02.jpg/960px-Chou_pomm%C3%A9_02.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Starr_070730-7852_Brassica_oleracea_var._capitata.jpg/960px-Starr_070730-7852_Brassica_oleracea_var._capitata.jpg",
             "fonte": "Wikimedia Commons"
         },
         "info_nutricionais": {
@@ -352,8 +352,8 @@
     "nome_cientifico": "Mangifera indica",
     "familia": "Anacardiaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/manga.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 303, "unidade": "kJ" },
@@ -395,8 +395,8 @@
     "nome_cientifico": "Carica papaya",
     "familia": "Caricaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/mamao.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Papaya_-_longitudinal_section.jpg/960px-Papaya_-_longitudinal_section.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 168, "unidade": "kJ" },
@@ -438,8 +438,8 @@
     "nome_cientifico": "Citrus sinensis",
     "familia": "Rutaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/laranja.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Local_Orange_Variety_of_Kozan_-_Kozan_Yerli_Portakal_04.jpg/960px-Local_Orange_Variety_of_Kozan_-_Kozan_Yerli_Portakal_04.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 190, "unidade": "kJ" },
@@ -481,8 +481,8 @@
     "nome_cientifico": "Psidium guajava",
     "familia": "Myrtaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/goiaba.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Psidium_guajava_at_Kadavoor.jpg/960px-Psidium_guajava_at_Kadavoor.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 226, "unidade": "kJ" },
@@ -523,8 +523,8 @@
     "nome_cientifico": "Solanum tuberosum",
     "familia": "Solanaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/batata-inglesa.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Picture_of_many_potatoes.jpg/960px-Picture_of_many_potatoes.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 301, "unidade": "kJ" },
@@ -564,8 +564,8 @@
     "nome_cientifico": "Manihot esculenta",
     "familia": "Euphorbiaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/mandioca.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manihot_esculenta_-_cross_section_2.jpg/960px-Manihot_esculenta_-_cross_section_2.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 667, "unidade": "kJ" },
@@ -605,8 +605,8 @@
     "nome_cientifico": "Beta vulgaris",
     "familia": "Amaranthaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/beterraba.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beets-Bundle.jpg/960px-Beets-Bundle.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 180, "unidade": "kJ" },
@@ -646,8 +646,8 @@
     "nome_cientifico": "Coriandrum sativum",
     "familia": "Apiaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/coentro.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/A_scene_of_Coriander_leaves.JPG/960px-A_scene_of_Coriander_leaves.JPG",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 96, "unidade": "kJ" },
@@ -688,8 +688,8 @@
     "nome_cientifico": "Citrus aurantifolia",
     "familia": "Rutaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/limao.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lemon.jpg/960px-Lemon.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 130, "unidade": "kJ" },
@@ -729,8 +729,8 @@
     "nome_cientifico": "Fragaria x ananassa",
     "familia": "Rosaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/morango.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/960px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 125, "unidade": "kJ" },
@@ -771,8 +771,8 @@
     "nome_cientifico": "Allium cepa",
     "familia": "Amaryllidaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/cebola.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Daepa_%28Allium_fistulosum%29_2.jpg/960px-Daepa_%28Allium_fistulosum%29_2.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 167, "unidade": "kJ" },
@@ -813,8 +813,8 @@
     "nome_cientifico": "Allium sativum",
     "familia": "Amaryllidaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/alho.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Garlic_bulbs_and_cloves.jpg/960px-Garlic_bulbs_and_cloves.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 473, "unidade": "kJ" },
@@ -855,8 +855,8 @@
     "nome_cientifico": "Cucurbita moschata",
     "familia": "Cucurbitaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/abobora.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pumpkin_with_stalk.jpg/960px-Pumpkin_with_stalk.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 88, "unidade": "kJ" },
@@ -898,8 +898,8 @@
     "nome_cientifico": "Cucumis sativus",
     "familia": "Cucurbitaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/pepino.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cucumber_fruit_in_illorin.jpg/960px-Cucumber_fruit_in_illorin.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 40, "unidade": "kJ" },
@@ -940,8 +940,8 @@
     "nome_cientifico": "Solanum melongena",
     "familia": "Solanaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/berinjela.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Solanum_melongena_24_08_2012_%281%29.JPG/960px-Solanum_melongena_24_08_2012_%281%29.JPG",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 75, "unidade": "kJ" },
@@ -982,8 +982,8 @@
     "nome_cientifico": "Zea mays",
     "familia": "Poaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/milho.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Starr-090807-4120-Zea_mays-UH_Yellow_and_Silver_sweet-Olinda-Maui_%2824945635636%29.jpg/960px-Starr-090807-4120-Zea_mays-UH_Yellow_and_Silver_sweet-Olinda-Maui_%2824945635636%29.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 578, "unidade": "kJ" },
@@ -1025,8 +1025,8 @@
     "nome_cientifico": "Capsicum annuum",
     "familia": "Solanaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/pimentao.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pimiento_morr%C3%B3n_%28Capsicum_annuum%29.jpg/960px-Pimiento_morr%C3%B3n_%28Capsicum_annuum%29.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 88, "unidade": "kJ" },
@@ -1068,8 +1068,8 @@
     "nome_cientifico": "Capsicum frutescens",
     "familia": "Solanaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/pimenta.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Capsicum_frutescens%2C_Burdwan%2C_West_Bengal%2C_India_03_05_2013.jpg/960px-Capsicum_frutescens%2C_Burdwan%2C_West_Bengal%2C_India_03_05_2013.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 167, "unidade": "kJ" },
@@ -1111,8 +1111,8 @@
     "nome_cientifico": "Musa spp.",
     "familia": "Musaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/banana.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cavendish_banana_from_Maracaibo.jpg/960px-Cavendish_banana_from_Maracaibo.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 383, "unidade": "kJ" },
@@ -1153,8 +1153,8 @@
     "nome_cientifico": "Malus domestica",
     "familia": "Rosaceae",
     "imagem": {
-      "url": "https://www.infoescola.com/wp-content/uploads/2010/01/maca.jpg",
-      "fonte": "InfoEscola"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+      "fonte": "Wikimedia Commons"
     },
     "info_nutricionais": {
       "Energia (kJ)": { "valor": 234, "unidade": "kJ" },
