@@ -1,6 +1,6 @@
 <script lang="ts">
     import { page } from '$app/stores';
-    import baseDados from '$lib/prototipo.json';
+    import baseDados from '$lib/data.json';
 
     const nomeUrl = $page.params.nome;
     const planta = baseDados.find(p => p.nome === nomeUrl);

@@ -1,14 +1,12 @@
 <script lang="ts">
-    import baseDados from '$lib/prototipo.json';
+    import baseDados from '$lib/data.json';
     
-    // 1. Criamos um estado reativo para a quantidade
     let itensVisiveis = $state(10);
     
     function carregarMais() {
         itensVisiveis += 10;
     }
 
-    // 2. Criamos valores derivados (equivalente ao antigo $:)
     let plantasExibidas = $derived(baseDados.slice(0, itensVisiveis));
     let temMaisParaMostrar = $derived(itensVisiveis < baseDados.length);
 </script>
@@ -27,10 +25,9 @@
                 <a href="/plantas/{planta.nome}" class="card-link">
                     <article class="card">
                         <div class="img-container">
-                            <img src={planta.imagem_url || 'https://via.placeholder.com/150?text=Planta'} alt={planta.nome}>
+                            <img src={planta.imagem.url || 'https://via.placeholder.com/150?text=Planta'} alt={planta.nome}>
                         </div>
                         <div class="card-content">
-                            <span class="tag">{planta.familia || 'Hortaliça'}</span>
                             <h3>{planta.nome}</h3>
                             <p class="cientifico"><em>{planta.nome_cientifico || ''}</em></p>
                         </div>
@@ -43,7 +40,7 @@
 
         {#if temMaisParaMostrar}
             <div class="acoes">
-                <button on:click={carregarMais} class="btn-ver-mais">
+                <button onclick={carregarMais} class="btn-ver-mais">
                     Ver Mais Plantas
                 </button>
             </div>
@@ -68,7 +65,7 @@
     .hero {
         text-align: center;
         padding: 40px 20px;
-        background-color: #2e7d32; /* Verde */
+        background-color: #2e7d32;
         color: white;
         border-radius: 12px;
         margin-bottom: 30px;
@@ -78,7 +75,7 @@
     .hero h1 {
         margin: 0;
         font-size: 3rem;
-        color: #ffeb3b; /* Amarelo */
+        color: #ffeb3b;
         text-shadow: 2px 2px #000;
     }
 
@@ -101,7 +98,7 @@
     }
 
     .card {
-        background-color: #795548; /* Marrom */
+        background-color: #795548;
         border: 2px solid #000;
         border-radius: 8px;
         overflow: hidden;
@@ -156,7 +153,6 @@
         margin: 0;
     }
 
-    /* Botão Ver Mais */
     .acoes {
         display: flex;
         justify-content: center;

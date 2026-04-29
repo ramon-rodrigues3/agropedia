@@ -3,11 +3,9 @@
     import baseDados from '$lib/data.json';
 
     
-    // Runas de Estado
     let busca = $state('');
     let mostrarResultados = $state(false);
 
-    // Runa Derivada para filtrar os resultados instantaneamente
     let resultadosFiltrados = $derived(
         busca.length > 1 
             ? baseDados.filter(p => p.nome.toLowerCase().includes(busca.toLowerCase())).slice(0, 5) 
@@ -67,7 +65,7 @@
 
 <style>
     .main-header {
-        background-color: #2e7d32; /* Verde Agropédia */
+        background-color: #2e7d32;
         border-bottom: 4px solid #000;
         padding: 10px 20px;
         position: sticky;
@@ -90,7 +88,7 @@
         align-items: center;
         gap: 12px;
         text-decoration: none;
-        color: #ffeb3b; /* Amarelo */
+        color: #ffeb3b;
     }
 
     .logo {
@@ -125,7 +123,6 @@
         color: #ffeb3b;
     }
 
-    /* Estilo da Busca */
     .search-wrapper {
         position: relative;
         flex-grow: 1;
@@ -153,13 +150,12 @@
         color: #666;
     }
 
-    /* Dropdown de Resultados */
     .search-results {
         position: absolute;
         top: 110%;
         left: 0;
         right: 0;
-        background-color: #795548; /* Marrom rústico */
+        background-color: #795548;
         border: 2px solid #000;
         border-radius: 4px;
         box-shadow: 6px 6px 0 rgba(0,0,0,0.2);
@@ -182,7 +178,7 @@
 
     .item-nome {
         font-weight: bold;
-        color: #ffeb3b; /* Amarelo */
+        color: #ffeb3b;
     }
 
     .item-familia {
